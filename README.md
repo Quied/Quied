@@ -1,5 +1,5 @@
                                                                                                     
-🎓 Currently i'm a student, 3 Course                                                                                                
+🎓 Currently I'm a student, 3 Course                                                                                                
 💗 I'm looking for a job as Trainee/Junior C++                                                                                             
 
 Telegram: @onlyinc                                                                                      
