@@ -1,6 +1,6 @@
                                                                                                     
-💗 Currently i'm a student, 3 Course, and learning C++                                                                                                
-🎓 I'm looking for work in Ukraine as Trainee/Junior C++                                                                                             
+🎓 Currently i'm a student, 3 Course                                                                                                
+💗 I'm looking for a job as Trainee/Junior C++                                                                                             
 
 Telegram: @onlyinc                                                                                      
 Mail: quiedcpp@gmail.com                                            
